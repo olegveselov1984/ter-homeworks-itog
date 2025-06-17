@@ -2,30 +2,23 @@
 
 Создайте Virtual Private Cloud (VPC).
 ![image](https://github.com/user-attachments/assets/588b4101-4757-4843-b824-9be993c5b262)
-![image](https://github.com/user-attachments/assets/588b4101-4757-4843-b824-9be993c5b262)
 
 Создайте подсети.
-![image](https://github.com/user-attachments/assets/68f30493-20a9-485a-b0d6-0d90fc9505cb)
 ![image](https://github.com/user-attachments/assets/68f30493-20a9-485a-b0d6-0d90fc9505cb)
 
 Создайте виртуальные машины (VM):
 ![image](https://github.com/user-attachments/assets/3e19f00f-37a4-4990-a281-08a40f210a5b)
-![image](https://github.com/user-attachments/assets/3e19f00f-37a4-4990-a281-08a40f210a5b)
 
 Настройте группы безопасности (порты 22, 80, 443).
-![image](https://github.com/user-attachments/assets/ad4fa223-ccc0-41bf-8383-cd3f75adcbc4)
 ![image](https://github.com/user-attachments/assets/ad4fa223-ccc0-41bf-8383-cd3f75adcbc4)
 
 Привяжите группу безопасности к VM.
 ![image](https://github.com/user-attachments/assets/fab05808-ddfd-4e04-92ec-9384e5b2c03d)
-![image](https://github.com/user-attachments/assets/fab05808-ddfd-4e04-92ec-9384e5b2c03d)
 
 Опишите создание БД MySQL в Yandex Cloud.
 ![image](https://github.com/user-attachments/assets/8eaf10c6-674d-4bfd-99b4-707ce81f77d1)
-![image](https://github.com/user-attachments/assets/8eaf10c6-674d-4bfd-99b4-707ce81f77d1)
 
 Опишите создание Container Registry.
-![image](https://github.com/user-attachments/assets/a118e463-9918-47aa-ab17-0fe0da495b18)
 ![image](https://github.com/user-attachments/assets/a118e463-9918-47aa-ab17-0fe0da495b18)
  
 

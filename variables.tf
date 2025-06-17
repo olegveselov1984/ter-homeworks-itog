@@ -29,15 +29,15 @@ variable "default_zone" {
     #   }
   }
 
-  variable "ip01" {
-  type        = string
-  description="ip-адрес"
-  default     = "192.168.0.1"
-    validation {
-    condition     = can(cidrhost("${var.ip01}/24", 24))
-    error_message = "Must be valid IPv4 CIDR."
-  }
-  }
+  # variable "ip01" {
+  # type        = string
+  # description="ip-адрес"
+  # default     = "192.168.0.1"
+  #   validation {
+  #   condition     = can(cidrhost("${var.ip01}/24", 24))
+  #   error_message = "Must be valid IPv4 CIDR."
+  # }
+  # }
 
 ####Работает, но нашел в Инете
   # variable "ip02" {
@@ -51,14 +51,14 @@ variable "default_zone" {
   # }
 
 
-  variable "ip03" {
-  type        = list(string)
-  description="список ip-адресов"
-  default     = ["192.168.0.1", "1.1.1.1", "127.0.0.1"] 
-      validation { 
-            condition = alltrue([
-    for a in var.ip03 : can(cidrhost("${a}/24", 24))
-    ])
-    error_message = "Must be valid IPv4 CIDR."
-  }
-  }
+  # variable "ip03" {
+  # type        = list(string)
+  # description="список ip-адресов"
+  # default     = ["192.168.0.1", "1.1.1.1", "127.0.0.1"] 
+  #     validation { 
+  #           condition = alltrue([
+  #   for a in var.ip03 : can(cidrhost("${a}/24", 24))
+  #   ])
+  #   error_message = "Must be valid IPv4 CIDR."
+  # }
+  # }

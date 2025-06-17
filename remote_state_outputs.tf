@@ -1,4 +1,4 @@
 output "out" {
 
-    value=concat(module.test-vm.fqdn , module.example-vm.fqdn)
+    value=concat(module.module-srv-vm01.fqdn , module.module-srv-vm02.fqdn)
 }

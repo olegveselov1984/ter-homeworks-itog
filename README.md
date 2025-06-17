@@ -1,2 +1,0 @@
-# ter-homeworks-itog
-test

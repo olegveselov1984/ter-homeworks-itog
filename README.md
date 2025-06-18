@@ -42,6 +42,9 @@
 
 
 Задание 2. Используя user-data (cloud-init), установите Docker и Docker Compose (см. Задания 5 модуля «Виртуализация и контейнеризация»).
+![image](https://github.com/user-attachments/assets/057c6434-257a-4ee1-bcf5-823bb85e8dc6)
+
+
 
 Задание 3. Опишите Docker файл (см. Задания 5 «Виртуализация и контейнеризация») c web-приложением и сохраните контейнер в Container Registry.
 

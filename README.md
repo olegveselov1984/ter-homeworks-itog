@@ -16,7 +16,12 @@
 ![image](https://github.com/user-attachments/assets/fab05808-ddfd-4e04-92ec-9384e5b2c03d)
 
 Опишите создание БД MySQL в Yandex Cloud.
-![image](https://github.com/user-attachments/assets/8eaf10c6-674d-4bfd-99b4-707ce81f77d1)
+![image](https://github.com/user-attachments/assets/288b80e5-4ae9-4ed1-834b-7b9082d8e328)
+
+![image](https://github.com/user-attachments/assets/63f855df-986a-46b5-be02-8a087fef1b10)
+
+
+
 
 Опишите создание Container Registry.
 ![image](https://github.com/user-attachments/assets/a118e463-9918-47aa-ab17-0fe0da495b18)

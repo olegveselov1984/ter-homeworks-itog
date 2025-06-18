@@ -48,6 +48,8 @@
 
 
 Задание 3. Опишите Docker файл (см. Задания 5 «Виртуализация и контейнеризация») c web-приложением и сохраните контейнер в Container Registry.
+![image](https://github.com/user-attachments/assets/319b6abc-d3ac-4995-ae76-73513d758a95)
+
 
 Задание 4. Завяжите работу приложения в контейнере на БД в Yandex Cloud.
 

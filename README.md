@@ -68,5 +68,7 @@ git clone https://github.com/olegveselov1984/ter-homeworks-itog.git
 cd /home/ubuntu/my_project/ter-homeworks-itog/
 docker compose up -d
 
+![image](https://github.com/user-attachments/assets/107355b0-0689-4e30-9aad-98de85803b13)
+
 
 Задание 5*. Положите пароли от БД в LockBox и настройте интеграцию с Terraform так, чтобы пароль для БД брался из LockBox.

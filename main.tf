@@ -30,7 +30,7 @@ module "module-srv-vm01" {
   env_name = "srv-vm01" # Имя одной конкретной ВМ. instance_count не учитывается
   #hostname = "srv-vm01"
   #instance_count = 1
-  image_family   = "ubuntu-2004-lts"
+  image_family   = "ubuntu-2404-lts"
   public_ip      = true
   security_group_ids = [
   yandex_vpc_security_group.example.id 
@@ -60,7 +60,7 @@ module "module-srv-vm02" {
   env_name = "srv-vm02"
   #hostname = "srv-vm02"
  # instance_count = 1
-  image_family   = "ubuntu-2004-lts"
+  image_family   = "ubuntu-2404-lts"
   public_ip      = true
   security_group_ids = [
   yandex_vpc_security_group.example.id 

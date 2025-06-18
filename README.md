@@ -58,4 +58,7 @@
 
 Задание 4. Завяжите работу приложения в контейнере на БД в Yandex Cloud.
 
+![image](https://github.com/user-attachments/assets/1f775efe-58e2-4e83-a7ad-0cd5e666e805)
+
+
 Задание 5*. Положите пароли от БД в LockBox и настройте интеграцию с Terraform так, чтобы пароль для БД брался из LockBox.

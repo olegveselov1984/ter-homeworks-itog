@@ -65,10 +65,15 @@
 
 
 Запуск проекта на ВМ:
+
 mkdir /home/ubuntu/my_project
+
 cd /home/ubuntu/my_project
+
 git clone https://github.com/olegveselov1984/ter-homeworks-itog.git
+
 cd /home/ubuntu/my_project/ter-homeworks-itog/
+
 docker compose up -d
 
 ![image](https://github.com/user-attachments/assets/107355b0-0689-4e30-9aad-98de85803b13)
@@ -77,7 +82,9 @@ docker compose up -d
 ![image](https://github.com/user-attachments/assets/6915e5c3-f8a0-4d6f-b1c5-98f1cf6fa3b6)
 
 
-![image](https://github.com/user-attachments/assets/46455477-d5d2-45b7-b217-0e462dfa1fc2)
+
+![image](https://github.com/user-attachments/assets/ea1c9f20-ae88-49f1-bb11-1938d0cb3ad8)
+
 
 
 

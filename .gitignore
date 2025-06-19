@@ -13,6 +13,6 @@ personal.auto.tfvars
 .external_modules
 
 #ansible
-*.cfg
+#*.cfg
 
 .env

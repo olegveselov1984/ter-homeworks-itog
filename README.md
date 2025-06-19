@@ -1,21 +1,21 @@
 Задание 1. Развертывание инфраструктуры в Yandex Cloud.
 
-Создайте Virtual Private Cloud (VPC).
+Создайте Virtual Private Cloud (VPC). (создал через terraform)
 ![image](https://github.com/user-attachments/assets/588b4101-4757-4843-b824-9be993c5b262)
 
-Создайте подсети.
+Создайте подсети. (создал через terraform)
 ![image](https://github.com/user-attachments/assets/68f30493-20a9-485a-b0d6-0d90fc9505cb)
 
-Создайте виртуальные машины (VM):
+Создайте виртуальные машины (VM): (создал через terraform)
 ![image](https://github.com/user-attachments/assets/3e19f00f-37a4-4990-a281-08a40f210a5b)
 
-Настройте группы безопасности (порты 22, 80, 443).
+Настройте группы безопасности (порты 22, 80, 443). (создал через terraform)
 ![image](https://github.com/user-attachments/assets/ad4fa223-ccc0-41bf-8383-cd3f75adcbc4)
 
-Привяжите группу безопасности к VM.
+Привяжите группу безопасности к VM. (создал через terraform)
 ![image](https://github.com/user-attachments/assets/fab05808-ddfd-4e04-92ec-9384e5b2c03d)
 
-Опишите создание БД MySQL в Yandex Cloud.
+Опишите создание БД MySQL в Yandex Cloud. (создал через веб)
 ![image](https://github.com/user-attachments/assets/288b80e5-4ae9-4ed1-834b-7b9082d8e328)
 
 ![image](https://github.com/user-attachments/assets/63f855df-986a-46b5-be02-8a087fef1b10)
@@ -72,6 +72,13 @@ cd /home/ubuntu/my_project/ter-homeworks-itog/
 docker compose up -d
 
 ![image](https://github.com/user-attachments/assets/107355b0-0689-4e30-9aad-98de85803b13)
+
+
+![image](https://github.com/user-attachments/assets/6915e5c3-f8a0-4d6f-b1c5-98f1cf6fa3b6)
+
+
+![image](https://github.com/user-attachments/assets/46455477-d5d2-45b7-b217-0e462dfa1fc2)
+
 
 
 Задание 5*. Положите пароли от БД в LockBox и настройте интеграцию с Terraform так, чтобы пароль для БД брался из LockBox.
